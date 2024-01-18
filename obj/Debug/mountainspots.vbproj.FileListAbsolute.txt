@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Desktop\MountainSpots\bin\mountainstops.dll.config
+\\vmware-host\Shared Folders\Desktop\MountainSpots\bin\mountainstops.dll
+\\vmware-host\Shared Folders\Desktop\MountainSpots\bin\mountainstops.pdb
+\\vmware-host\Shared Folders\Desktop\MountainSpots\bin\mountainstops.xml
+\\vmware-host\Shared Folders\Desktop\MountainSpots\obj\Debug\mountainspots.vbproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\MountainSpots\obj\Debug\mountainstops.Resources.resources
+\\vmware-host\Shared Folders\Desktop\MountainSpots\obj\Debug\mountainspots.vbproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\MountainSpots\obj\Debug\mountainspots.vbproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\MountainSpots\obj\Debug\mountainstops.dll
+\\vmware-host\Shared Folders\Desktop\MountainSpots\obj\Debug\mountainstops.xml
+\\vmware-host\Shared Folders\Desktop\MountainSpots\obj\Debug\mountainstops.pdb
